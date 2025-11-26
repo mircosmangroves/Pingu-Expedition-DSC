@@ -1,3 +1,7 @@
-"Identifier	size	weight	type	funny name",,,,
+<<<<<<< HEAD,,,,
+Identifier,size,weight,type,funny name
 1,5.2,78,King penguin,Rüdiger
 2,4.3,89,Pawn penguin,Clara
+=======,,,,
+"Identifier	size	weight	type	funny name	shoe size",,,,
+>>>>>>> origin/main,,,,
